@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-iniyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iniyan-g-066458221/)](https://www.linkedin.com/in/iniyan-g-066458221/)
-[![Gmail Badge](https://img.shields.io/badge/-iniyan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iniyansg93@gmail.com)](mailto:iniyansg93@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-iniyansg93@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iniyansg93@gmail.com)](mailto:iniyansg93@gmail.com)
