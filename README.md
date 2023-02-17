@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Linkedin-green&link=https://www.linkedin.com/in/iniyan-g-066458221/)](https://www.linkedin.com/in/iniyan-g-066458221/)
-[![Gmail Badge](https://img.shields.io/badge/-kamal.anbazhagan29-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iniyansg93@gmail.com)](mailto:iniyansg93@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-iniyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iniyan-g-066458221/)](https://www.linkedin.com/in/iniyan-g-066458221/)
+[![Gmail Badge](https://img.shields.io/badge/-iniyan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iniyansg93@gmail.com)](mailto:iniyansg93@gmail.com)
