@@ -1,4 +1,5 @@
 ### Hi there 👋
+### IAM INIYAN 
 
 <!--
 **iniyan75/iniyan75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-kamal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iniyan-g-066458221/)](https://www.linkedin.com/in/iniyan-g-066458221/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Linkedin-green&link=https://www.linkedin.com/in/iniyan-g-066458221/)](https://www.linkedin.com/in/iniyan-g-066458221/)
 [![Gmail Badge](https://img.shields.io/badge/-kamal.anbazhagan29-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iniyansg93@gmail.com)](mailto:iniyansg93@gmail.com)
